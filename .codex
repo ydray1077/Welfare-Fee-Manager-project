@@ -1,0 +1,17 @@
+{
+    "name": "Welfare Fee Manager",
+    "description": "A Python application for managing welfare fees and payments",
+    "language": "python",
+    "main_file": "welfare_fee_manager.py",
+    "dependencies": {
+        "python": ">=3.6"
+    },
+    "ignore_patterns": [
+        "*.pyc",
+        "__pycache__",
+        "*.json",
+        "*.csv",
+        "*.xlsx",
+        "*.jpg"
+    ]
+} 
